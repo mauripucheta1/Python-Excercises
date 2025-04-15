@@ -101,4 +101,15 @@ En cada archivo encontraran los temas a tratar. Recuerden que abordamos aspectos
     # Carpeta "Desafios":
     Contiene la resolución de los ejercicios propuestos al final del material
 
+10) Carpeta:
+    # Programación Modular:
+    En esta carpeta encontraremos temas característicos de la misma, tales como por ejemplo:
+    * Teoría
+    * Funciones lambda
+    * Funciones con argumentos por omisión
+    * Funciones con argumentos con palabras claves
+    * Funciones con argumentos especiales
+    * Funciones con argumentos arbitrarios  
+    * Resoluciones de ejercicios por carpetas
+
 # PD: Muchísimas gracias si te tomaste el tiempo de leer y realizar la interpretación de todo. ¡Saludos! 😀
