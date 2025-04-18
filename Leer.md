@@ -66,7 +66,7 @@ En cada archivo encontraran los temas a tratar. Recuerden que abordamos aspectos
 6) Carpeta:
     # Estructuras de Datos:
     Dentro de esta carpeta, se encontrarán un archivo llamado "colecciones_indexadas.py", donde desarrollaremos:
-    * Listas
+    * Listas 
     * Listas unidimensionales (Vector)
     * Listas bidimensionales (Matrices)
     * Operaciones básicas con listas

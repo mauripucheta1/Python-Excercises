@@ -1,6 +1,5 @@
 # 1) Funciones predefinidas (built-in): Python nos proporciona una serie de funciones ya predefinidas, tales como:
 
-
 # Funciones Matemáticas:
 # abs(x): Retorna el valor absoluto de un número
 a = -5
@@ -80,5 +79,5 @@ print(f"Mi lista modificada quedaría algo como: {lista_all}")
 # list.pop(index): Elimina y retorna un elemento de una lista
 lista_final = ["Mauricio", 20, "Pucheta"]
 nombre_programador = lista_final.pop(0)
-print(f"Nombre programador: {nombre_programador}")
+print(f"Nombre programador eliminado: {nombre_programador}")
 print(f"Lista finalizada: {lista_final}")
