@@ -1,6 +1,6 @@
 # Resolución Ejercicio Nº 1:
 # Crea una lista de números desordenados y ordénala en orden ascendente y descendente.
-numeros = [6,3, 1, 4, 8, 10, 5, 2, 9, 7]
+numeros = [6, 3, 1, 4, 8, 10, 5, 2, 9, 7]
 numeros_ascendente = sorted(numeros)
 print(f"Los números ordenados de manera ascendente quedaría tal como:", numeros_ascendente)
 numeros_descendente = sorted(numeros, reverse=True)
